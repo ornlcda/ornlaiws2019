@@ -10,8 +10,7 @@ Registration is by invitation only and the cost is 150$ per registrant. All spea
 
 ## ORNL Visitor Information
 
-The venue for the workshop is ORNL Conference Center in Building 5200. The
-details of the venue can be found at https://map.ornl.org/#!BLD_2015061703231
+The venue for the workshop is [ORNL Conference Center in Building 5200](https://map.ornl.org/#!BLD_2015061703231)
 
 The details for visiting ORNL can be found at https://www.ornl.gov/content/come-see-us. 
 
