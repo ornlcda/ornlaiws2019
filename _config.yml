@@ -1,28 +1,28 @@
 # main text of home
-name: Ramakrishnan(Ramki) Kannan
-bio: Computational Data Scientist
+name: ORNL AI Workshop
+bio: Solving the big AI problems
 
 # twitter summary info
-description: Personal Website of Ramki
+description: 
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/ornlaiworkshop.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
-resume-external: false
-resume-url: https://google.com/?q=my+resume
+#resume: false
+#resume-external: false
+#resume-url: https://google.com/?q=my+resume
 
-url: https://ramkikannan.github.io
+url: https://ramkikannan.github.io/ornlaiworkshop2019/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-1153718'
+#analytics-google: 'UA-1153718'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -42,8 +42,8 @@ analytics-google: 'UA-1153718'
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: ramkikannan
-gitlab: ramkikannan
+#github: ramkikannan
+#gitlab: ramkikannan
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -51,16 +51,16 @@ gitlab: ramkikannan
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-scholar: d59WLM4AAAAJ
-dblp: hd/k/Kannan:Ramakrishnan
-email: kannanr@ornl.gov
+#scholar: d59WLM4AAAAJ
+#dblp: hd/k/Kannan:Ramakrishnan
+email: potokte@ornl.gov
 
 authors:
     ramkikannan:
-        name: Ramakrishnan(Ramki) Kannan
-        bio: Computational Data Scientist & Joint Faculty GATech
+        name: ORNL AI Workshop 2019
+        bio: Solving the big AI problems
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/ornlaiworkshop.jpg
         # twitter: johndoe
 #     jamesfoster:
 #         name: James Foster
@@ -72,21 +72,21 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
 # paginate_path: "blog/:num/"
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+committee: true
 #blog: true
 
 # if you don't need research, comment the *research* configs below
-research: true
+program: true
 
 # if you don't need publications, comment the *publications* configs below
-publications: true
+info: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -101,7 +101,7 @@ related: true
 # post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+#show-author: true
 
 # do you want some animations?
 animation: true
