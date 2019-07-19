@@ -14,7 +14,7 @@ U. S. Department of Energy  | Bldg. 5200, Room TN A & B |
 | 10:00 a.m.| Break |	Bldg. 5200 |
 |**ARCHITECTURE**|||
 | 10:15 a.m.| Xipeng Sheng, North Carolina State University (NCSU)
-*Reciprocity of AI and HPC:  A Programming System Perspective* | Bldg. 5200, Room TN A & B |
+_Reciprocity of AI and HPC:  A Programming System Perspective_ | Bldg. 5200, Room TN A & B |
 | 10:45 a.m. | James Plank, University of Tennessee, Knoxville (UTK) 
 *The TENNLab Exploratory Neuromorphic Computing Framework* | Bldg. 5200, Room TN A & B |
 | 11:15 a.m. | Catherine Schuman, Oak Ridge National Laboratory (ORNL) 
@@ -39,6 +39,7 @@ U. S. Department of Energy  | Bldg. 5200, Room TN A & B |
 |:------  | :-----     | :----- |
 
 ## Friday, September 20, 2019
+
 |Time    | Event    | Place  |
 |:------  | :-----     | :----- |
 |8:00 a.m.| Registration and Coffee | Bldg. 5200, 2nd Floor Lobby| 
