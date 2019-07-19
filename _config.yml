@@ -1,5 +1,5 @@
 # main text of home
-name: ORNL AI Workshop
+name: ORNL AI Workshop 2019
 bio: Solving the big AI problems
 
 # twitter summary info
@@ -16,7 +16,7 @@ picture: assets/images/ornlaiworkshop.jpg
 #resume-external: false
 #resume-url: https://google.com/?q=my+resume
 
-url: https://ramkikannan.github.io/ornlaiworkshop2019/
+url: https://ramkikannan.github.io/ornlaiws2019/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
