@@ -1,42 +1,82 @@
 ---
 layout: page
-title: Research
+title: Program
 sitemap: true
 ---
-## Funding
+## Thursday, September 19, 2019
 
-|Year    | Agency    | Role  |Description    | Amount (in USD)   |
-|:------  | :-----     | :----- |:-------        | ------:      |
- 2017-19 |DOE-LDRD  | PI    | Scalable Non-linear Unmixing with Physical Constraints for Scientific Data    | $900,000 |
- 2017-19 | DOE-LDRD | co-PI  | Accelerating end-to-end prediction of physical phenomena by interleaving analytics with multiscale simulations on Exascale architectures | $600,000
-  2016-19 | NSF      | Ext Collab | High Performance Low Rank Approximation for Scalable Data Analytics  | $900,000 |
-2016-17  |DOE-LDRD   |PI      | Mini-Apps for Data-Intensive Discovery on Big Data Architectures      | $460,000  |
-2016-17  |DOE-SEED   |PI      | Scalable Dimensionality Reduction for Non-negative Higher Order Tensors   | $190,000 |
-2016    |  NSF      |       |   Travel Grant for PPoPP  | $1,500 |
+|Time    | Event    | Place  |
+|:------  | :-----     | :----- |
+|8:00 a.m. | Registration and Coffee |	Bldg. 5200, 2nd Floor Lobby |
+|8:45am | Opening Remarks by Tom Potok ORNL | Bldg. 5200, Room TN A & B |
+|9:15 a.m |	Keynote:  Robinson Pino
+U. S. Department of Energy  | Bldg. 5200, Room TN A & B |
+| 10:00 a.m.| Break |	Bldg. 5200 |
+|**ARCHITECTURE**|||
+| 10:15 a.m.| Xipeng Sheng, North Carolina State University (NCSU)
+*Reciprocity of AI and HPC:  A Programming System Perspective* | Bldg. 5200, Room TN A & B |
+| 10:45 a.m. | James Plank, University of Tennessee, Knoxville (UTK) 
+*The TENNLab Exploratory Neuromorphic Computing Framework* | Bldg. 5200, Room TN A & B |
+| 11:15 a.m. | Catherine Schuman, Oak Ridge National Laboratory (ORNL) 
+*Neuromorphic Computing and Neural Hardware: Custom Hardware for AI* | Bldg. 5200, Room TN A & B | 
+| 11:45 a.m. | ** Working Lunch ** 
+*Top Issues of AI/ML on Architecture, Applications, NLP, Humans, and AI Methods and Panel Discussion* | Bldg. 5200, Room TN C |
+|**APPLICATIONS**|||
+|1:00 p.m.| Hairon Qi, University of Tennessee, Knoxville (UTK)|
+*Unsupervised Learning for Hyperspectral Super Resolution* |Bldg. 5200, Room TN A&B|
+|1:30 p.m.|Chandan Reddy, Virginia Tech (VT)|
+*Question Answering in Healthcare:  Challenges and Opportunities* | Bldg. 5200, Room TN A&B|
+|2:00 p.m.|Raju Vatsavai, North Carolina State University (NCSU)|
+*GeoAI:  Geospatial AI for Social Good* |Bldg. 5200, Room TN A&B
+|2:30 p.m.|	**Break**	| Bldg. 5200 |
+|**HUMANS and AI**|||
+|3:00 p.m.| Jon Doyle, North Carolina State University (NCSU) |
+*Reason, Reaction, and Reflection in Deliberation, Action, and Interaction* |Bldg. 5200, Room TN A & B|
+|3:30 p.m.| Chris North, Virginia Tech (VT)|
+*Interactive AI:  How Humans and AI Can Collaborate in Data Analytics*|Bldg. 5200, Room TN A & B|
+|4:00 p.m.|Robert Patton, Oak Ridge National Laboratory (ORNL)|
+*Mobility in the 21st Century* |Bldg. 5200, Room TN A & B|
+|:------  | :-----     | :----- |
 
-## Organizing Committees
+## Friday, September 20, 2019
+|Time    | Event    | Place  |
+|:------  | :-----     | :----- |
+|8:00 a.m.| Registration and Coffee | Bldg. 5200, 2nd Floor Lobby| 
+|9:00 a.m. | Keynote:  Lawrence Carin, Duke University  
+*On the understanding of recurrent neural networks*|Bldg. 5200, Room TN A & B|
+|10:00 a.m.| **Break**	|Bldg. 5200|
+|**METHODS**|||
+|10:15 a.m.|Anuj Karpatne, Virginia Tech (VT)
+*Theory-guided Data Science:  How Can Machine Learning and Physical Knowledge Come Together to Accelerate Scientific Discovery* |Bldg. 5200, Room TN A & B|
+|10:45 a.m.|Haesun Park, Georgia Institute of Technology (GATech)
+*Semi-supervised Multi-view Clustering of Hypergraphs* |Bldg. 5200, Room TN A & B|
+|11:15 a.m.| Le Song, Georgia Institute of Technology (GATech)
+*Can Graph Neural Networks Help Logic Reasoning*|Bldg. 5200, Room TN A & B|
+|11:45 a.m.| **Break**	|Bldg. 5200, Room TN A & B|
 
-* Minisymposium titled [Constrained Low-Rank Matrix and Tensor Approximations](http://users.wfu.edu/ballard/SIAM-ALA18/) in SIAM ALA18
-* [Fragile Earth - Theory Guided Data Science to Enhance Scientific Discovery (FEED)](https://ai4good.org/kdd-2018-workshop/) Workshop at KDD'2018
+|**INFORMATION and NLP**|||
+|12:00 p.m.|Yangfeng Ji, Virginia Tech (VT)
+*Building Robust and Interpretable Neural Models for Natural Language Understanding* |Bldg. 5200, Room TN A & B|
+|1:00 p.m.|Vincente Ordonez-Roman, Virginia Tech (VT)
+*Building Fair and Robust Representations for Vision and Language* |Bldg. 5200, Room TN A & B|
+|1:30 p.m.|Guillermo Sapiro, Duke University
+*An Information Theory Approach to Information Obfuscation*|Bldg. 5200, Room TN A & B|
+|2:00 p.m.| Vahid Tarokh, Duke University 
+*Fisher Inspired Approach to Representation, Modeling, Inference, and Prediction* |Bldg. 5200, Room TN A & B|
+|2:30pm| Dave Womble, Oak Ridge National Laboratory (ORNL)
+*An Overview of the AI Initiative and the AI Strategy at ORNL* |Bldg. 5200, Room TN A & B|
+|3:00 p.m.| Closing Remarks by Tom Potok| Bldg. 5200, Room TN A & B|
+|3:30 p.m.| **Adjourn** ||
 
-## Program Committees
 
-KDD'2015, CIKM'2015, ICDM'2015, KDD'2016, ICML'2017, KDD'2018,  SC'2019
 
-## Journal Reviewer
 
-TKDE, TPAMI, IEEE Signal Processing Letters, DAMI, JMLC, ESWA, TKDD, Entropy, Interfaces, KAIS, Information Sciences
 
-## Grant Proposal Reviewer
 
-* Tobacco-Related Disease Research Program(TRDRP)
-* DOE-LDRD
 
-## Invited Talks
+|:------  | :-----     | :----- |
 
-* IISC AANA National Meeting on Big Data, Encryption & Cyber Security, and Technology in Healthcare Chicago, IL, August 26th, 2018 - [Presentation](../files/iiscaana18.pdf) 
-* Practical Matrix Factorization for Spatial and Spatio-Temporal Data - [SSTDM workshop in ICDM 2018](https://research.csc.ncsu.edu/stac/conferences/ICDM-SSTDM17/) 
-* Wakeforest University - 21-July-2017 - [Announcement](../figs/wakeforest.jpg) [Presentation](../files/wakeforest.pdf)
-* Distributed Nonnegative Tensor Low Rank Approximation for Large-Scale Clustering - Optimization Methods and Parallel Computing for Tensor Problems - Part I of II - SIAM CSE 2017 - [Abstract](http://meetings.siam.org/sess/dsp_talk.cfm?p=81557) [Presentation](../files/siamcse18.pdf)
-* SOA and zSeries, In the conference of Leverage the Smart SOA-IBM developerworks, Chennai, 2009
-* Enterprise Modernization using IBM Host Access Transformation Services, Rational Software Development Conference, Bangalore,  2007
+
+
+
+
