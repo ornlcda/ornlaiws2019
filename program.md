@@ -21,7 +21,9 @@ _Reciprocity of AI and HPC:  A Programming System Perspective_ | Bldg. 5200, Roo
 *Neuromorphic Computing and Neural Hardware: Custom Hardware for AI* | Bldg. 5200, Room TN A & B | 
 | 11:45 a.m. | ** Working Lunch ** 
 *Top Issues of AI/ML on Architecture, Applications, NLP, Humans, and AI Methods and Panel Discussion* | Bldg. 5200, Room TN C |
-|**APPLICATIONS**|||
+|APPLICATIONS|||
+|:------- |||
+
 |1:00 p.m.| Hairon Qi, University of Tennessee, Knoxville (UTK)|
 *Unsupervised Learning for Hyperspectral Super Resolution* |Bldg. 5200, Room TN A&B|
 |1:30 p.m.|Chandan Reddy, Virginia Tech (VT)|
