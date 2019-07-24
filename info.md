@@ -16,7 +16,7 @@ The details for access to ORNL and [Visitor Information](https://www.ornl.gov/co
 
 It is important to authorize your visit in the ORNL systems. All attendees will be registered in the ORNL database prior to the workshop. 
 
-**You should receive an email from “ANGIE SCOTT” through ORNL’s secure visitor system requesting you to provide your information for entrance approval to ORNL.  Please watch your email (and junk email box) for an email from Angie Scott.  Without being processed for badge approval, you will not be allowed entrance to ORNL.**
+*You should receive an email from “ANGIE SCOTT” through ORNL’s secure visitor system requesting you to provide your information for entrance approval to ORNL.  Please watch your email (and junk email box) for an email from Angie Scott.  Without being processed for badge approval, you will not be allowed entrance to ORNL.*
 
 ## Hotel Information
 

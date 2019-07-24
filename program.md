@@ -8,7 +8,7 @@ sitemap: true
 |Time    | Event    | Place  |
 |:------  | :-----     | :----- |
 |8:00 a.m. | Registration and Coffee |	Bldg. 5200, 2nd Floor Lobby |
-|8:45am | Opening Remarks by Tom Potok ORNL | Bldg. 5200, Room TN A & B |
+|8:45 a.m. | Opening Remarks by Tom Potok ORNL | Bldg. 5200, Room TN A & B |
 |9:15 a.m |	Keynote:  Robinson Pino U. S. Department of Energy  | Bldg. 5200, Room TN A & B |
 | 10:00 a.m.| Break |	Bldg. 5200 |
 |**ARCHITECTURE**|||
