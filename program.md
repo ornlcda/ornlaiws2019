@@ -31,7 +31,7 @@ sitemap: true
 |Time    | Event    | Place  |
 |:------  | :-----     | :----- |
 |8:00 a.m.| Registration and Coffee | Bldg. 5200, 2nd Floor Lobby| 
-|9:00 a.m. | Keynote:  Lawrence Carin, Duke University *On the Understanding of Recurrent Neural Networks*|Bldg. 5200, Room TN A & B|
+|9:00 a.m. | Keynote:  Lawrence Carin, Duke University <br/> *On the Understanding of Recurrent Neural Networks*|Bldg. 5200, Room TN A & B|
 |10:00 a.m.| **Break**	|Bldg. 5200|
 |**METHODS**|||
 |10:15 a.m.|Anuj Karpatne, Virginia Tech (VT)<br/> *Theory-guided Data Science:  How Can Machine Learning and Physical Knowledge Come Together to Accelerate Scientific Discovery* |Bldg. 5200, Room TN A & B|
@@ -41,8 +41,8 @@ sitemap: true
 |**INFORMATION and NLP**|||
 |12:00 p.m.|Yangfeng Ji, Virginia Tech (VT)<br/> *Building Robust and Interpretable Neural Models for Natural Language Understanding* |Bldg. 5200, Room TN A & B|
 |1:00 p.m.|Vincente Ordonez-Roman, Virginia Tech (VT)<br/> *Building Fair and Robust Representations for Vision and Language* |Bldg. 5200, Room TN A & B|
-|1:30 p.m.|Guillermo Sapiro, Duke University *An Information Theory Approach to Information Obfuscation*|Bldg. 5200, Room TN A & B|
-|2:00 p.m.| Vahid Tarokh, Duke University *Fisher Inspired Approach to Representation, Modeling, Inference, and Prediction* |Bldg. 5200, Room TN A & B|
+|1:30 p.m.|Guillermo Sapiro, Duke University <br/> *An Information Theory Approach to Information Obfuscation*|Bldg. 5200, Room TN A & B|
+|2:00 p.m.| Vahid Tarokh, Duke University <br/> *Fisher Inspired Approach to Representation, Modeling, Inference, and Prediction* |Bldg. 5200, Room TN A & B|
 |2:30 p.m.| Dave Womble, Oak Ridge National Laboratory (ORNL)<br/> *An Overview of the AI Initiative and the AI Strategy at ORNL* |Bldg. 5200, Room TN A & B|
 |3:00 p.m.| Closing Remarks by Tom Potok| Bldg. 5200, Room TN A & B|
 |3:30 p.m.| **Adjourn** ||
