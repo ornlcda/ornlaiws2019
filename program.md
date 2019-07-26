@@ -39,7 +39,7 @@ sitemap: true
 |11:15 a.m.| Le Song, Georgia Institute of Technology (GATech)<br/> *Can Graph Neural Networks Help Logic Reasoning*|Bldg. 5200, Room TN A & B|
 |11:45 a.m.| **Break**	|Bldg. 5200, Room TN A & B|
 |**INFORMATION and NLP**|||
-|12:00 p.m.|Yangfeng Ji, Virginia Tech (VT)<br/> *Building Robust and Interpretable Neural Models for Natural Language Understanding* |Bldg. 5200, Room TN A & B|
+|12:00 p.m.|Yangfeng Ji, University of Virginia(UVa) <br/> *Building Robust and Interpretable Neural Models for Natural Language Understanding* |Bldg. 5200, Room TN A & B|
 |12:30 p.m.|Vincente Ordonez-Roman, Virginia Tech (VT)<br/> *Building Fair and Robust Representations for Vision and Language* |Bldg. 5200, Room TN A & B|
 |1:00 p.m.|Guillermo Sapiro, Duke University <br/> *An Information Theory Approach to Information Obfuscation*|Bldg. 5200, Room TN A & B|
 |1:30 p.m.| Vahid Tarokh, Duke University <br/> *Fisher Inspired Approach to Representation, Modeling, Inference, and Prediction* |Bldg. 5200, Room TN A & B|
