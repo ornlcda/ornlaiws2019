@@ -9,7 +9,7 @@ sitemap: true
 |:------  | :-----     | :----- |
 |8:00 a.m. | Registration and Coffee |	Bldg. 5200, 2nd Floor Lobby |
 |8:45 a.m. | Opening Remarks by Tom Potok, ORNL | Bldg. 5200, Room TN A & B |
-|9:15 a.m |	Keynote:  Robinson Pino, U. S. Department of Energy  | Bldg. 5200, Room TN A & B |
+|9:15 a.m |	Keynote:  Robinson Pino, U. S. Department of Energy <br/> *DOE Basic Research and Development Activities in Artificial Intelligence* | Bldg. 5200, Room TN A & B |
 | 10:00 a.m.| Break |	Bldg. 5200 |
 |**ARCHITECTURE**|||
 | 10:15 a.m.| Xipeng Sheng, North Carolina State University (NCSU) <br/> *Reciprocity of AI and HPC:  A Programming System Perspective* | Bldg. 5200, Room TN A & B |
