@@ -18,6 +18,8 @@ It is important to authorize your visit in the ORNL systems.  All attendees will
 
 *\*\*You should receive an email from “ANGIE SCOTT” through ORNL’s secure visitor system requesting you to provide your information for entrance approval to ORNL.  Please watch your email (and junk email box) for an email from Angie Scott.  Without being processed for badge approval, you will not be allowed entrance to ORNL. Deadline date for getting access to ORNL is 29-August-2019 (8/29/2019)\*\**
 
+One of the requirements for foreign national badging is that a current resume must be attached.  Current resumes MUST include each person’s high school information as well.  If high school information is not included in your resume, you will be denied access.  Also, please remember to bring your visa paperwork and passport with you for processing in at ORNL.
+
 ## Hotel Information
 
 We have a room block set up at the DoubleTree Hotel (a Hilton property) located at 215 S.  Illinois Avenue, Oak Ridge, TN  37830.  The block of rooms are for check in on Sept.  18 & check out on 19.  The cut-off date is 8/28/19 and the room rate is $94 plus tax per night.  The call in phone number for the reservation line is 865-481-2468 and the `group code is ARI`.  
