@@ -25,3 +25,7 @@ One of the requirements for foreign national badging is that a current resume mu
 We have a room block set up at the DoubleTree Hotel (a Hilton property) located at 215 S.  Illinois Avenue, Oak Ridge, TN  37830.  The block of rooms are for check in on Sept.  18 & check out on 19.  The cut-off date is 8/28/19 and the room rate is $94 plus tax per night.  The call in phone number for the reservation line is 865-481-2468 and the `group code is ARI`.  
 
 [Reservation Link](https://doubletree.hilton.com/en/dt/groups/personalized/O/ORKDTDT-ARI-20190918/index.jhtml)
+
+## Local Transportation
+
+The Knoxville airport is about 30 minutes away from Oak Ridge. Uber and other public/airport taxis cannot get inside ORNL and there are few dedicated taxi operators permitted inside. The conference hotel is located in Oak Ridge town and ORNL is several miles from Oak Ridge town. A rental car is economical over taxis and with GPS it is easy to drive around Knoxville and Oak Ridge. There will be no other form of transportation for this workshop.
