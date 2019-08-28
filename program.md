@@ -19,7 +19,7 @@ sitemap: true
 |**Scientific and Social Applications**|||
 |1:00 p.m.| Hairong Qi, University of Tennessee, Knoxville (UTK) <br/> *Unsupervised Learning for Hyperspectral Super Resolution* |Bldg. 5200, Room TN A & B|
 |1:30 p.m.|Chandan Reddy, Virginia Tech (VT)<br/> *Question Answering in Healthcare:  Challenges and Opportunities* | Bldg. 5200, Room TN A & B
-|2:00 p.m.|Nathan Kutz, University of Washington (UW) <br/> *Prospects of AI for Physics Discovery* | | Bldg. 5200, Room TN A & B
+|2:00 p.m.|Nathan Kutz, University of Washington (UW) <br/> *Prospects of AI for Physics Discovery* | Bldg. 5200, Room TN A & B
 |2:30 p.m.|Raju Vatsavai, North Carolina State University (NCSU)<br/> *GeoAI:  Geospatial AI for Social Good* |Bldg. 5200, Room TN A & B
 |3:00 p.m.|	**Break**	| Bldg. 5200 |
 |**HUMANS and AI**|||
