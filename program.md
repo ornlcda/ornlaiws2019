@@ -9,7 +9,7 @@ sitemap: true
 |:------  | :-----     | :----- |
 |8:00 a.m. | Registration and Light Continental Breakfast |Bldg. 5200, 2nd Floor Lobby |
 |8:45 a.m. | Opening Remarks by Tom Potok, ORNL | Bldg. 5200, Room TN A & B |
-|9:15 a.m |	Keynote:  Robinson Pino, U. S. Department of Energy (DOE) <br/> *DOE Basic Research and Development Activities in Artificial Intelligence* | Bldg. 5200, Room TN A & B |
+|9:15 a.m |	Keynote:  Nathan Kutz, University of Washington (UW) <br/> *Coordinates, governing equations and limits of physics discovery* | Bldg. 5200, Room TN A & B
 | 10:00 a.m.| Break |	Bldg. 5200 |
 |**ARCHITECTURE**|||
 | 10:15 a.m.| Xipeng Sheng, North Carolina State University (NCSU) <br/> *Reciprocity of AI and HPC:  A Programming System Perspective* | Bldg. 5200, Room TN A & B |
@@ -19,14 +19,13 @@ sitemap: true
 |**Scientific and Social Applications**|||
 |1:00 p.m.| Hairong Qi, University of Tennessee, Knoxville (UTK) <br/> *Unsupervised Learning for Hyperspectral Super Resolution* |Bldg. 5200, Room TN A & B|
 |1:30 p.m.|Chandan Reddy, Virginia Tech (VT)<br/> *Question Answering in Healthcare:  Challenges and Opportunities* | Bldg. 5200, Room TN A & B
-|2:00 p.m.|Nathan Kutz, University of Washington (UW) <br/> *Prospects of AI for Physics Discovery* | Bldg. 5200, Room TN A & B
-|2:30 p.m.|Raju Vatsavai, North Carolina State University (NCSU)<br/> *GeoAI:  Geospatial AI for Social Good* |Bldg. 5200, Room TN A & B
-|3:00 p.m.|	**Break**	| Bldg. 5200 |
+|2:00 p.m.|Raju Vatsavai, North Carolina State University (NCSU)<br/> *GeoAI:  Geospatial AI for Social Good* |Bldg. 5200, Room TN A & B
+|2:30 p.m.|	**Break**	| Bldg. 5200 |
 |**HUMANS and AI**|||
-|3:30 p.m.| Jon Doyle, North Carolina State University (NCSU)<br/> *Reason, Reaction, and Reflection in Deliberation, Action, and Interaction* |Bldg. 5200, Room TN A & B|
-|4:00 p.m.| Chris North, Virginia Tech (VT)<br/> *Interactive AI:  How Humans and AI Can Collaborate in Data Analytics*|Bldg. 5200, Room TN A & B|
-|4:30 p.m.|James Plank, University of Tennessee, Knoxville (UTK)<br/> *The TENNLab Exploratory Neuromorphic Computing Framework*|Bldg. 5200, Room TN A & B|
-|5:00 p.m.| Adjourn for the day||
+|3:00 p.m.| Jon Doyle, North Carolina State University (NCSU)<br/> *Reason, Reaction, and Reflection in Deliberation, Action, and Interaction* |Bldg. 5200, Room TN A & B|
+|3:30 p.m.| Chris North, Virginia Tech (VT)<br/> *Interactive AI:  How Humans and AI Can Collaborate in Data Analytics*|Bldg. 5200, Room TN A & B|
+|4:00 p.m.|James Plank, University of Tennessee, Knoxville (UTK)<br/> *The TENNLab Exploratory Neuromorphic Computing Framework*|Bldg. 5200, Room TN A & B|
+|4:30 p.m.| Adjourn for the day||
 |6:00 - 8:30 p.m.| Dinner for Invited Guests - Sponsored by Duke | DoubleTree Hotel Oak Ridge |
 
 ## Friday, September 20, 2019
