@@ -21,11 +21,13 @@ sitemap: true
 |1:30 p.m.|Chandan Reddy, Virginia Tech (VT)<br/> *Question Answering in Healthcare:  Challenges and Opportunities* | Bldg. 5200, Room TN A & B
 |2:00 p.m.|Raju Vatsavai, North Carolina State University (NCSU)<br/> *GeoAI:  Geospatial AI for Social Good* |Bldg. 5200, Room TN A & B
 |2:30 p.m.|	**Break**	| Bldg. 5200 |
-|**HUMANS and AI**|||
+|**Humans and AI**|||
 |3:00 p.m.| Jon Doyle, North Carolina State University (NCSU)<br/> *Reason, Reaction, and Reflection in Deliberation, Action, and Interaction* |Bldg. 5200, Room TN A & B|
 |3:30 p.m.| Chris North, Virginia Tech (VT)<br/> *Interactive AI:  How Humans and AI Can Collaborate in Data Analytics*|Bldg. 5200, Room TN A & B|
-|4:00 p.m.|James Plank, University of Tennessee, Knoxville (UTK)<br/> *The TENNLab Exploratory Neuromorphic Computing Framework*|Bldg. 5200, Room TN A & B|
-|4:30 p.m.| Adjourn for the day||
+|**Kaleidoscope1**|||
+|4:00 p.m.|Vicente Ordonez-Roman, University of Virginia (UVa)<br/> *Building Fair and Robust Representations for Vision and Language* |Bldg. 5200, Room TN A & B|
+|4:30 p.m.|James Plank, University of Tennessee, Knoxville (UTK)<br/> *The TENNLab Exploratory Neuromorphic Computing Framework*|Bldg. 5200, Room TN A & B|
+|5:00 p.m.| Adjourn for the day||
 |6:00 - 8:30 p.m.| Dinner for Invited Guests - Sponsored by Duke | DoubleTree Hotel Oak Ridge |
 
 ## Friday, September 20, 2019
@@ -42,9 +44,9 @@ sitemap: true
 |11:45 a.m.| **Break**	|Bldg. 5200, Room TN A & B|
 |**INFORMATION and NLP**|||
 |12:00 p.m.| **Working Lunch** -- Yangfeng Ji, University of Virginia (UVa) <br/> *Building Robust and Interpretable Neural Models for Natural Language Understanding* |Bldg. 5200, Room TN A & B|
-|12:30 p.m.|Vicente Ordonez-Roman, University of Virginia (UVa)<br/> *Building Fair and Robust Representations for Vision and Language* |Bldg. 5200, Room TN A & B|
-|1:00 p.m.|Guillermo Sapiro, Duke University <br/> *An Information Theory Approach to Information Obfuscation*|Bldg. 5200, Room TN A & B|
-|1:30 p.m.| Vahid Tarokh, Duke University <br/> *Fisher Inspired Approach to Representation, Modeling, Inference, and Prediction* |Bldg. 5200, Room TN A & B|
-|2:00 p.m.| Dave Womble, Oak Ridge National Laboratory (ORNL)<br/> *An Overview of the AI Initiative and the AI Strategy at ORNL* |Bldg. 5200, Room TN A & B|
-|2:30 p.m.| Closing Remarks by Tom Potok| Bldg. 5200, Room TN A & B|
-|3:00 p.m.| **Adjourn** ||
+|12:30 p.m.| Vahid Tarokh, Duke University <br/> *Fisher Inspired Approach to Representation, Modeling, Inference, and Prediction* |Bldg. 5200, Room TN A & B|
+|**Kaleidoscope2**|||
+|1:00 p.m.| Nageswar Rao, Oak Ridge National Laboratory <br/> *Machine Learning for Science Scenario: Limits and Solutions* |Bldg. 5200, Room TN A & B|
+|1:30 p.m.| Dave Womble, Oak Ridge National Laboratory (ORNL)<br/> *An Overview of the AI Initiative and the AI Strategy at ORNL* |Bldg. 5200, Room TN A & B|
+|2:00 p.m.| Closing Remarks by Tom Potok| Bldg. 5200, Room TN A & B|
+|2:30 p.m.| **Adjourn** ||
